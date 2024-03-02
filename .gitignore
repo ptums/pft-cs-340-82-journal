@@ -1,0 +1,10 @@
+common-commands.txt
+aac_shelter_outcomes.csv
+.env
+env
+.ipynb_checkpoints
+__pycache__
+.virtual_documents
+.Rhistory
+env.txt
+.DS_Store
